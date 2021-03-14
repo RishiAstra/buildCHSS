@@ -101,3 +101,29 @@
 [17:13:19] [Server thread/INFO]: [raa220: Set own game mode to Spectator Mode]
 [17:14:13] [Server thread/INFO]: raa220 lost connection: Disconnected
 [17:14:13] [Server thread/INFO]: raa220 left the game
+[17:17:55] [Server thread/INFO]: Stopping the server
+[17:17:55] [Server thread/INFO]: Stopping server
+[17:17:55] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v19.4
+[17:17:55] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[17:17:55] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v19.4
+[17:17:55] [Server thread/INFO]: [ImageOnMap] Disabling ImageOnMap v4.0
+[17:17:55] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.3+5680-135941e
+[17:17:55] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[17:17:55] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.3
+[17:17:55] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[17:17:55] [Server thread/INFO]: [LuckPerms] Closing storage...
+[17:17:56] [Server thread/INFO]: [LuckPerms] Goodbye!
+[17:17:56] [Server thread/INFO]: Saving players
+[17:17:56] [Server thread/INFO]: Saving worlds
+[17:17:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[17:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:17:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[17:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:17:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[17:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[17:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[17:17:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[17:17:56] [Server thread/INFO]: Flushing Chunk IO
+[17:17:56] [Server thread/INFO]: Closing Thread Pool
+[17:17:56] [Server thread/INFO]: Closing Server
