@@ -1,90 +1,97 @@
-[07:17:27] [main/INFO]: Reloading ResourceManager: Default, bukkit
-[07:17:27] [Worker-Main-1/INFO]: Loaded 7 recipes
-[07:17:28] [Server thread/INFO]: Starting minecraft server version 1.16.5
-[07:17:28] [Server thread/INFO]: Loading properties
-[07:17:28] [Server thread/INFO]: This server is running Paper version git-Paper-547 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
-[07:17:28] [Server thread/INFO]: Debug logging is disabled
-[07:17:28] [Server thread/INFO]: Server Ping Player Sample Count: 12
-[07:17:28] [Server thread/INFO]: Using 4 threads for Netty based IO
-[07:17:28] [Server thread/INFO]: Default game type: CREATIVE
-[07:17:28] [Server thread/INFO]: Generating keypair
-[07:17:28] [Server thread/INFO]: Starting Minecraft server on *:25565
-[07:17:28] [Server thread/INFO]: Using default channel type
-[07:17:29] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.3
-[07:17:29] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.3+5680-135941e
-[07:17:29] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@575e0f8a]
-[07:17:29] [Server thread/INFO]: [ImageOnMap] Loading ImageOnMap v4.0
-[07:17:29] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v19.4
-[07:17:29] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
-[07:17:29] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.3
-[07:17:29] [Server thread/INFO]:         __    
-[07:17:29] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.3
-[07:17:29] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
-[07:17:29] [Server thread/INFO]: 
-[07:17:29] [Server thread/INFO]: [LuckPerms] Loading configuration...
-[07:17:30] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
-[07:17:30] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
-[07:17:30] [Server thread/INFO]: [LuckPerms] Performing initial data load...
-[07:17:30] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 793ms)
-[07:17:30] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.3+5680-135941e
-[07:17:30] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
-[07:17:30] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
-[07:17:31] [Server thread/INFO]: Preparing level "world"
-[07:17:31] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
-[07:17:31] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[07:17:31] [Server thread/INFO]: Loaded 0 spawn chunks for world world
-[07:17:31] [Server thread/INFO]: Preparing spawn area: 0%
-[07:17:31] [Server thread/INFO]: Time elapsed: 146 ms
-[07:17:31] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
-[07:17:32] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
-[07:17:32] [Server thread/INFO]: Time elapsed: 69 ms
-[07:17:32] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
-[07:17:32] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
-[07:17:32] [Server thread/INFO]: Time elapsed: 153 ms
-[07:17:32] [Server thread/INFO]: [ImageOnMap] Enabling ImageOnMap v4.0
-[07:17:32] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[07:17:32] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[07:17:32] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[07:17:32] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
-[07:17:32] [Server thread/INFO]: [ImageOnMap] Loaded 0 player map files.
-[07:17:32] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v19.4
-[07:17:32] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
-[07:17:32] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
-[07:17:32] [Server thread/INFO]: --------------------
-[07:17:32] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
-[07:17:32] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
-[07:17:32] [Server thread/INFO]: --------------------
-[07:17:32] [Server thread/INFO]: Running delayed init tasks
-[07:17:32] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
-[07:17:32] [Server thread/INFO]: Done (4.454s)! For help, type "help"
-[07:17:32] [Server thread/INFO]: Timings Reset
-[07:17:33] [Thread-16/INFO]: --------------------
-[07:17:33] [Thread-16/INFO]: [CoreProtect] Version 19.5 is now available.
-[07:17:33] [Thread-16/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
-[07:17:33] [Thread-16/INFO]: --------------------
-[08:00:46] [Server thread/INFO]: Stopping the server
-[08:00:46] [Server thread/INFO]: Stopping server
-[08:00:46] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v19.4
-[08:00:46] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
-[08:00:47] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v19.4
-[08:00:47] [Server thread/INFO]: [ImageOnMap] Disabling ImageOnMap v4.0
-[08:00:47] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.3+5680-135941e
-[08:00:47] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
-[08:00:47] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.3
-[08:00:47] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
-[08:00:47] [Server thread/INFO]: [LuckPerms] Closing storage...
-[08:00:47] [Server thread/INFO]: [LuckPerms] Goodbye!
-[08:00:47] [Server thread/INFO]: Saving players
-[08:00:47] [Server thread/INFO]: Saving worlds
-[08:00:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[08:00:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:00:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
-[08:00:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:00:47] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
-[08:00:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:00:47] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[08:00:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[08:00:48] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[08:00:48] [Server thread/INFO]: Flushing Chunk IO
-[08:00:48] [Server thread/INFO]: Closing Thread Pool
-[08:00:48] [Server thread/INFO]: Closing Server
+[20:29:03] [main/INFO]: Reloading ResourceManager: Default, bukkit
+[20:29:03] [Worker-Main-4/INFO]: Loaded 7 recipes
+[20:29:04] [Server thread/INFO]: Starting minecraft server version 1.16.5
+[20:29:04] [Server thread/INFO]: Loading properties
+[20:29:04] [Server thread/INFO]: This server is running Paper version git-Paper-547 (MC: 1.16.5) (Implementing API version 1.16.5-R0.1-SNAPSHOT)
+[20:29:04] [Server thread/INFO]: Debug logging is disabled
+[20:29:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[20:29:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[20:29:04] [Server thread/INFO]: Default game type: CREATIVE
+[20:29:04] [Server thread/INFO]: Generating keypair
+[20:29:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[20:29:04] [Server thread/INFO]: Using default channel type
+[20:29:05] [Server thread/INFO]: [LuckPerms] Loading LuckPerms v5.3.3
+[20:29:05] [Server thread/INFO]: [WorldEdit] Loading WorldEdit v7.2.3+5680-135941e
+[20:29:05] [Server thread/INFO]: Got request to register class com.sk89q.worldedit.bukkit.BukkitServerInterface with WorldEdit [com.sk89q.worldedit.extension.platform.PlatformManager@53d8c88e]
+[20:29:05] [Server thread/INFO]: [ImageOnMap] Loading ImageOnMap v4.0
+[20:29:05] [Server thread/INFO]: [CoreProtect] Loading CoreProtect v19.4
+[20:29:05] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[20:29:05] [Server thread/INFO]: [LuckPerms] Enabling LuckPerms v5.3.3
+[20:29:05] [Server thread/INFO]:         __    
+[20:29:05] [Server thread/INFO]:   |    |__)   LuckPerms v5.3.3
+[20:29:05] [Server thread/INFO]:   |___ |      Running on Bukkit - Paper
+[20:29:05] [Server thread/INFO]: 
+[20:29:05] [Server thread/INFO]: [LuckPerms] Loading configuration...
+[20:29:05] [Server thread/INFO]: [LuckPerms] Loading storage provider... [H2]
+[20:29:06] [Server thread/INFO]: [LuckPerms] Loading internal permission managers...
+[20:29:06] [Server thread/INFO]: [LuckPerms] Performing initial data load...
+[20:29:06] [Server thread/INFO]: [LuckPerms] Successfully enabled. (took 675ms)
+[20:29:06] [Server thread/INFO]: [WorldEdit] Enabling WorldEdit v7.2.3+5680-135941e
+[20:29:06] [Server thread/INFO]: WEPIF: Using the Bukkit Permissions API.
+[20:29:06] [Server thread/INFO]: Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_16_R3 as the Bukkit adapter
+[20:29:06] [Server thread/INFO]: Preparing level "world"
+[20:29:07] [Server thread/INFO]: Registering commands with com.sk89q.worldedit.bukkit.BukkitServerInterface
+[20:29:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[20:29:07] [Server thread/INFO]: Loaded 0 spawn chunks for world world
+[20:29:07] [Server thread/INFO]: Preparing spawn area: 0%
+[20:29:07] [Server thread/INFO]: Time elapsed: 310 ms
+[20:29:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[20:29:07] [Server thread/INFO]: Loaded 0 spawn chunks for world world_nether
+[20:29:07] [Server thread/INFO]: Time elapsed: 62 ms
+[20:29:07] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[20:29:07] [Server thread/INFO]: Loaded 0 spawn chunks for world world_the_end
+[20:29:07] [Server thread/INFO]: Time elapsed: 31 ms
+[20:29:07] [Server thread/INFO]: [ImageOnMap] Enabling ImageOnMap v4.0
+[20:29:07] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[20:29:07] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[20:29:07] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[20:29:07] [Server thread/WARN]: Warning: Nashorn engine is planned to be removed from a future JDK release
+[20:29:07] [Server thread/INFO]: [ImageOnMap] Loaded 0 player map files.
+[20:29:07] [Server thread/INFO]: [CoreProtect] Enabling CoreProtect v19.4
+[20:29:08] [Server thread/INFO]: [CoreProtect] CoreProtect has been successfully enabled!
+[20:29:08] [Server thread/INFO]: [CoreProtect] Using SQLite for data storage.
+[20:29:08] [Server thread/INFO]: --------------------
+[20:29:08] [Server thread/INFO]: [CoreProtect] Enjoy CoreProtect? Join our Discord!
+[20:29:08] [Server thread/INFO]: [CoreProtect] Discord: www.coreprotect.net/discord/
+[20:29:08] [Server thread/INFO]: --------------------
+[20:29:08] [Server thread/INFO]: Running delayed init tasks
+[20:29:08] [Server thread/INFO]: [CoreProtect] WorldEdit logging successfully initialized.
+[20:29:08] [Server thread/INFO]: Done (3.909s)! For help, type "help"
+[20:29:08] [Server thread/INFO]: Timings Reset
+[20:29:09] [Thread-16/INFO]: --------------------
+[20:29:09] [Thread-16/INFO]: [CoreProtect] Version 19.5 is now available.
+[20:29:09] [Thread-16/INFO]: [CoreProtect] Download: www.coreprotect.net/download/
+[20:29:09] [Thread-16/INFO]: --------------------
+[20:29:10] [Server thread/WARN]: [ImageOnMap] A new version of ImageOnMap is available! Latest version is 4.1, and you're running 4.0
+[20:29:10] [Server thread/WARN]: [ImageOnMap] Download the new version here: https://www.spigotmc.org/resources/imageonmap.26585
+[20:30:54] [User Authenticator #1/INFO]: UUID of player raa220 is c7f59f79-637a-4ab5-947d-fc6bc8ed1346
+[20:30:54] [Server thread/INFO]: raa220 joined the game
+[20:30:54] [Server thread/INFO]: raa220[/100.33.150.78:64567] logged in with entity id 1644 at ([world]-197.2075971186641, 40.0, -68.43044517172609)
+[20:31:51] [Server thread/INFO]: raa220 lost connection: Disconnected
+[20:31:51] [Server thread/INFO]: raa220 left the game
+[20:31:59] [Server thread/INFO]: Stopping the server
+[20:31:59] [Server thread/INFO]: Stopping server
+[20:31:59] [Server thread/INFO]: [CoreProtect] Disabling CoreProtect v19.4
+[20:31:59] [Server thread/INFO]: [CoreProtect] Finishing up data logging. Please wait...
+[20:32:00] [Server thread/INFO]: [CoreProtect] Success! Disabled CoreProtect v19.4
+[20:32:00] [Server thread/INFO]: [ImageOnMap] Disabling ImageOnMap v4.0
+[20:32:00] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v7.2.3+5680-135941e
+[20:32:00] [Server thread/INFO]: Unregistering com.sk89q.worldedit.bukkit.BukkitServerInterface from WorldEdit
+[20:32:00] [Server thread/INFO]: [LuckPerms] Disabling LuckPerms v5.3.3
+[20:32:00] [Server thread/INFO]: [LuckPerms] Starting shutdown process...
+[20:32:00] [Server thread/INFO]: [LuckPerms] Closing storage...
+[20:32:00] [Server thread/INFO]: [LuckPerms] Goodbye!
+[20:32:00] [Server thread/INFO]: Saving players
+[20:32:00] [Server thread/INFO]: Saving worlds
+[20:32:00] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:32:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[20:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:32:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[20:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:32:01] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:32:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:32:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:32:02] [Server thread/INFO]: Flushing Chunk IO
+[20:32:02] [Server thread/INFO]: Closing Thread Pool
+[20:32:02] [Server thread/INFO]: Closing Server
